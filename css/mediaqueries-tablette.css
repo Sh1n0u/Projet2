@@ -1,4 +1,4 @@
-@media all and (min-width: 768px) and (max-width: 992px) {
+@media all and (min-width: 768px) and (max-width: 1024px) {
     /* -------------- */
     /* Section Search */
     /* -------------- */
@@ -9,6 +9,7 @@
     .research {
         width: 100%;
     }
+
     .button-selection {
         width: 100%;
         margin-top: 15px;
@@ -37,6 +38,7 @@
         flex-direction: row;
         flex-wrap: nowrap;
     }
+    
     /* ----------------- */
     /* Section Activitée */
     /* ----------------- */

@@ -77,9 +77,12 @@
         padding: 15px 0px;
         margin: 0px;
         width: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         flex-wrap: wrap;
         gap: 20px;
-    }
+      }
 
     .icon-location {
         width: 10%;
@@ -98,10 +101,10 @@
     }
 
     .filter-button {
-        width: 47%;
-        font-size: 11px;
+        width: calc(50% - 20px);
+        font-size: 15px;
         padding: 15px;
-    }
+      }
 
     .research {
         width: 100%;
