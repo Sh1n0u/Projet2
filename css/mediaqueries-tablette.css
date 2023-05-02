@@ -4,6 +4,8 @@
     /* -------------- */
     .filter-bar {
         justify-content: space-between;
+        width: auto;
+        flex-wrap: nowrap;
     }
 
     .research {
@@ -11,9 +13,9 @@
     }
 
     .button-selection {
-        width: 100%;
-        margin-top: 15px;
+        width: 90%;
     }
+
     /* --------------- */
     /* Section Central */
     /* --------------- */

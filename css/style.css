@@ -145,7 +145,7 @@ header {
 .filter-bar {
     display: flex;
     justify-content: flex-start;
-    width: auto;
+    width: 95%;
     align-items: center;
     margin-top: 30px;
     flex-wrap: wrap;
